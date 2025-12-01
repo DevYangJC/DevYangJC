@@ -7,13 +7,9 @@
 
 ## 💻 我的核心技术栈
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22Hello%20Java%20World!%22);" alt="Typing SVG" />
-</div>
-
 | 类别          | 技术栈                                                                 |
 |---------------|------------------------------------------------------------------------|
-| **后端核心**  | `Java 8+` · `Spring Boot` · `MyBatis Plus` · `Redis` · `RabbitMQ`   |
+| **后端核心**  | `Java 8+` · `Spring Boot` · `MyBatis Plus` · `Redis` · `RabbitMQ` · `Kafka`   |
 | **数据库**    | `MySQL` · `PostgreSQL` · `Elasticsearch`                                |
 | **云原生**    | `Docker` · `Kubernetes` · `Spring Cloud Alibaba`                       |
 | **前端基础**  | `Vue3` · `TypeScript` · `Element Plus` · `Webpack`                      |
@@ -22,15 +18,19 @@
 
 ## 📊 个人技术仪表盘
 
+<h1 align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=println(%22Hello+World!%22)" alt="Typing SVG" /></a>
+</h1>
 <div align="center">
-  <a href="https://github.com/DevYangJC">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevYangJC&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/DevYangJC">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevYangJC&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
 
+<a href="https://github.com/DevYangJC">
+  <img height=200 align="center" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=DevYangJC" />
+</a>
+<a href="https://github.com/DevYangJC">
+  <img height=200 align="center" src="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs?username=DevYangJC&layout=compact&langs_count=8&card_width=350&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=DevYangJC,locall" />
+</a>
+
+</div>
 
 ---
 

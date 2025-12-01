@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevYangJC)](https://github.com/DevYangJC/github-readme-stats)
-
 
 ## 👻 Hi, Welcome to my Github Profile!
 

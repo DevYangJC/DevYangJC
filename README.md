@@ -1,7 +1,7 @@
 # 🌟 欢迎来到我的 GitHub 个人主页！
 
 > **用 Java 编写未来，用代码点亮世界**  
-> 一名专注 **Java 后端** 的开发者 | 云原生技术探索者 | 技术分享爱好者
+> 一名专注 **Java 后端** 的开发者 | AI技术探索者 | 技术分享爱好者
 
 ---
 
@@ -13,26 +13,24 @@
 
 | 类别          | 技术栈                                                                 |
 |---------------|------------------------------------------------------------------------|
-| **后端核心**  | `Java 17+` · `Spring Boot 3` · `MyBatis Plus` · `Redis` · `RabbitMQ`   |
+| **后端核心**  | `Java 8+` · `Spring Boot` · `MyBatis Plus` · `Redis` · `RabbitMQ`   |
 | **数据库**    | `MySQL` · `PostgreSQL` · `Elasticsearch`                                |
 | **云原生**    | `Docker` · `Kubernetes` · `Spring Cloud Alibaba`                       |
 | **前端基础**  | `Vue3` · `TypeScript` · `Element Plus` · `Webpack`                      |
-| **AI 能力**   | `LangChain` · `OpenAI API` · `Prompt Engineering`                       |
 
 ---
 
 ## 📊 个人技术仪表盘
 
 <div align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/DevYangJC">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevYangJC&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/your-username">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/DevYangJC">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevYangJC&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
-> ✨ *注：请将 `your-username` 替换为您的 GitHub 用户名*
 
 ---
 
@@ -40,9 +38,9 @@
 
 | 项目名称                     | 技术亮点                                  | 项目地址                                     |
 |------------------------------|------------------------------------------|---------------------------------------------|
-| **[SpringBoot-Admin](https://github.com/your-username/springboot-admin)** | 企业级监控系统（集成 Prometheus + Grafana） | [GitHub](https://github.com/your-username/springboot-admin) |
-| **[AI-CodeAssistant](https://github.com/your-username/ai-codeassistant)** | 基于 LangChain 的代码生成助手             | [GitHub](https://github.com/your-username/ai-codeassistant) |
-| **[Cloud-Store](https://github.com/your-username/cloud-store)** | 分布式电商系统（Spring Cloud Alibaba）     | [GitHub](https://github.com/your-username/cloud-store) |
+| **[SpringBoot-Admin](https://github.com/DevYangJC/literature-assistant)** | 文档阅读项目 | [GitHub](https://github.com/DevYangJC/literature-assistant) |
+| **[AI-CodeAssistant](https://github.com/DevYangJC/ai-codeassistant)** | 基于 LangChain 的代码生成助手             | [GitHub](https://github.com/DevYangJC/ai-codeassistant) |
+| **[Cloud-Store](https://github.com/DevYangJC/cloud-store)** | 分布式电商系统（Spring Cloud Alibaba）     | [GitHub](https://github.com/DevYangJC/cloud-store) |
 
 ---
 

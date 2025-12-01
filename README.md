@@ -18,9 +18,6 @@
 
 ## 📊 个人技术仪表盘
 
-<h1 align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=println(%22Hello+World!%22)" alt="Typing SVG" /></a>
-</h1>
 <div align="center">
 
 <a href="https://github.com/DevYangJC">
@@ -38,7 +35,7 @@
 
 | 项目名称                     | 技术亮点                                  | 项目地址                                     |
 |------------------------------|------------------------------------------|---------------------------------------------|
-| **[SpringBoot-Admin](https://github.com/DevYangJC/literature-assistant)** | 文档阅读项目 | [GitHub](https://github.com/DevYangJC/literature-assistant) |
+| **[literature-assistant](https://github.com/DevYangJC/literature-assistant)** | AI文档阅读助手 | [GitHub](https://github.com/DevYangJC/literature-assistant) |
 | **[AI-CodeAssistant](https://github.com/DevYangJC/ai-codeassistant)** | 基于 LangChain 的代码生成助手             | [GitHub](https://github.com/DevYangJC/ai-codeassistant) |
 | **[Cloud-Store](https://github.com/DevYangJC/cloud-store)** | 分布式电商系统（Spring Cloud Alibaba）     | [GitHub](https://github.com/DevYangJC/cloud-store) |
 

@@ -9,7 +9,7 @@
 
 | 类别          | 技术栈                                                                 |
 |---------------|------------------------------------------------------------------------|
-| **后端核心**  | `Java 8+` · `Spring Boot` · `MyBatis Plus` · `Redis` · `RabbitMQ` · `Kafka`   |
+| **后端核心**  | `Java` · `Spring Boot` · `MyBatis Plus` · `Redis` · `RabbitMQ` · `Kafka`   |
 | **数据库**    | `MySQL` · `PostgreSQL` · `Elasticsearch`                                |
 | **云原生**    | `Docker` · `Kubernetes` · `Spring Cloud Alibaba`                       |
 | **前端基础**  | `Vue3` · `TypeScript` · `Element Plus` · `Webpack`                      |

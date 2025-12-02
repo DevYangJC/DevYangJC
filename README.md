@@ -35,9 +35,9 @@
 
 | 项目名称                     | 技术亮点                                  | 项目地址                                     |
 |------------------------------|------------------------------------------|---------------------------------------------|
-| **[literature-assistant](https://github.com/DevYangJC/literature-assistant)** | AI文档阅读助手 | [GitHub](https://github.com/DevYangJC/literature-assistant) |
-| **[AI-CodeAssistant](https://github.com/DevYangJC/ai-codeassistant)** | 基于 LangChain 的代码生成助手             | [GitHub](https://github.com/DevYangJC/ai-codeassistant) |
-| **[Cloud-Store](https://github.com/DevYangJC/cloud-store)** | 分布式电商系统（Spring Cloud Alibaba）     | [GitHub](https://github.com/DevYangJC/cloud-store) |
+| **[literature-assistant](https://github.com/DevYangJC/literature-explorer)** | AI文档阅读助手 | [GitHub](https://github.com/DevYangJC/literature-explorer) |
+| **[AI-CodeAssistant](https://github.com/DevYangJC/wanwuCode)** | 后端服务解决方案   | [GitHub](https://github.com/DevYangJC/wanwuCode) |
+| **[Cloud-Store](https://github.com/DevYangJC/MarkGlow)** |  Markdown 编辑与美化平台  | [GitHub](https://github.com/DevYangJC/MarkGlow) |
 
 ---
 
@@ -45,9 +45,7 @@
 
 欢迎与我一起探索技术边界！以下是我的联系方式：
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2867B2?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:your.email@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E2?logo=telegram)](https://t.me/your_handle)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:your.email@butterycase@163.com)
 
 > 💡 **小贴士**：提交 Issue 时请注明 `#技术讨论` 或 `#项目合作`，我会优先回复！
 

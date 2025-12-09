@@ -41,7 +41,6 @@
 
 ---
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=DevYangJC&locale=cn&line_height=33&show_icons=true&hide=contribs&theme=&rank_icon=default"/>
 
 ## 💬 交流与合作
 

@@ -18,20 +18,20 @@
 
 ## 📊 个人技术仪表盘
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/DevYangJC">
   <img height=200 align="center" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=DevYangJC" />
 </a>
 <a href="https://github.com/DevYangJC">
   <img height=200 align="center" src="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs?username=DevYangJC&layout=compact&langs_count=8&card_width=350&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=JavaYouth,alixRepository,DevYangJC.github.io,picgoPicture,2025-blog-public" />
-</a>
+</a> -->
 
 <a href="https://icyfenix.cn">
 <br/>
   
-![](https://github.com/fenixsoft/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/fenixsoft/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/DevYangJC/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/DevYangJC/github-stats/blob/master/generated/languages.svg)
 </a>
 
 </div>

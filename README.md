@@ -37,6 +37,7 @@
 
 | 项目名称                     | 技术亮点                                  | 项目地址                                     |
 |------------------------------|------------------------------------------|---------------------------------------------|
+| **[literature-assistant](https://github.com/DevYangJC/intelli_hub)** | 企业级API开放平台 | [GitHub](https://github.com/DevYangJC/intelli_hub) |
 | **[literature-assistant](https://github.com/DevYangJC/literature-explorer)** | AI文档阅读助手 | [GitHub](https://github.com/DevYangJC/literature-explorer) |
 | **[AI-CodeAssistant](https://github.com/DevYangJC/wanwuCode)** | 后端服务解决方案   | [GitHub](https://github.com/DevYangJC/wanwuCode) |
 | **[Cloud-Store](https://github.com/DevYangJC/MarkGlow)** |  Markdown 编辑与美化平台  | [GitHub](https://github.com/DevYangJC/MarkGlow) |

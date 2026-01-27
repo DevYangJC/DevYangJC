@@ -17,16 +17,16 @@
 ---
 
 ## 📊 个人技术仪表盘
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/DevYangJC">
     <img width="500px" src="https://github-readme-stats.vercel.app/api?username=DevYangJC&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
   </a>
-</div>
+</div> -->
 <div align="center">
 
-<a href="https://github.com/DevYangJC">
+<!-- <a href="https://github.com/DevYangJC">
   <img height=200 align="center" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=DevYangJC" />
-</a>
+</a> -->
 <a href="https://github.com/DevYangJC">
   <img height=200 align="center" src="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs?username=DevYangJC&layout=compact&langs_count=8&card_width=350&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=JavaYouth,alixRepository,DevYangJC.github.io,picgoPicture,2025-blog-public" />
 </a>

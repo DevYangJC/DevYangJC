@@ -10,12 +10,15 @@
 
 ## 💻 我的核心技术栈
 
-| 类别          | 技术栈                                                                 |
-|---------------|------------------------------------------------------------------------|
-| **后端核心**  | `Java` · `Spring Boot` · `MyBatis Plus` · `Redis` · `RabbitMQ` · `Kafka`   |
-| **数据库**    | `MySQL` · `PostgreSQL` · `Elasticsearch`                                |
-| **云原生**    | `Docker` · `Kubernetes` · `Spring Cloud Alibaba`                       |
-| **前端基础**  | `Vue3` · `TypeScript` · `Element Plus` · `Webpack`                      |
+| 类别                | 技术栈                                                       |
+| ------------------- | ------------------------------------------------------------ |
+| **后端核心**        | `Java 8/11/17` · `Spring Boot 2.x/3.x` · `Spring MVC` · `MyBatis Plus` · `MyBatis` · `Spring Security` · `JWT` · `Redis` · `Redisson` · `RabbitMQ` · `Kafka` |
+| **数据库**          | `MySQL 5.7/8.0` · `PostgreSQL` · `Elasticsearch` · `MongoDB` · `ClickHouse` |
+| **云原生 & 微服务** | `Docker` · `Kubernetes` · `Spring Cloud Alibaba` · `Nacos` · `Sentinel` · `Seata` · `Gateway` · `Prometheus` · `Grafana` |
+| **AI 与智能化**     | `Spring AI` · `LangChain4j` · `Agent 智能体开发` · `AIGC 应用集成` · `RAG 检索增强生成` · `向量数据库 (Milvus/PGVector)` |
+| **前端基础**        | `Vue3` · `TypeScript` · `Element Plus` · `Pinia`  · `Vite`  · `ECharts` |
+| **DevOps & 工具**   | `Git` · `Maven` · `Gradle` · `Jenkins` · `GitLab CI` · `Nginx` · `XXL-JOB` |
+| **安全 & 其他**     | `OAuth2.0` · `RBAC` · `Swagger/OpenAPI` · `SkyWalking` · `ELK` |
 
 ---
 
